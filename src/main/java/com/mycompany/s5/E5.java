@@ -10,7 +10,7 @@ import java.util.Scanner;
  */
 public class E5 {
     public static void main(String[] args) {
-        //<editor-fold defaultstate="collapsed" desc="comment">
+        
         Scanner sc=new Scanner(System.in);
         int num;
         System.out.print("Introduce un número: ");
@@ -21,6 +21,5 @@ public class E5 {
         else
             // suponemos que el 0 es positivo.
             System.out.println("Positivo");
-//</editor-fold>
         }
 }

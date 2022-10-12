@@ -8,7 +8,6 @@ public class E10 {
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
         int a,b,c;
-        //<editor-fold defaultstate="collapsed" desc="comment">
         System.out.print("Introduzca primer número: ");
         a=sc.nextInt();
         System.out.print("Introduzca segundo número: ");
@@ -37,7 +36,6 @@ public class E10 {
                 }
             }
         }
-//</editor-fold>
 
     }
 }

@@ -10,7 +10,7 @@ import java.util.Scanner;
  */
 public class E8 {
     public static void main(String[] args) {
-        //<editor-fold defaultstate="collapsed" desc="comment">
+        
         Scanner sc=new Scanner(System.in);
         int n1,n2;
         System.out.print("Introduce un número: ");
@@ -27,7 +27,6 @@ public class E8 {
             else
                 System.out.println(n2 + " es mayor que " + n1);
         }
-//</editor-fold>
 
     }
 }

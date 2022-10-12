@@ -10,7 +10,7 @@ import java.util.Scanner;
  */
 public class E6 {
     public static void main(String[] args) {
-        //<editor-fold defaultstate="collapsed" desc="comment">
+        
         Scanner sc=new Scanner(System.in);
         int n1,n2;
         System.out.print("Introduce un número: ");
@@ -21,7 +21,6 @@ public class E6 {
             System.out.println("Son múltiplos");
         else
             System.out.println("No son múltiplos");
-//</editor-fold>
 
     }
 }

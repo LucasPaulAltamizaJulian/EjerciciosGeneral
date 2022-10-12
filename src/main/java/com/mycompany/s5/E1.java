@@ -8,7 +8,7 @@ import java.util.Scanner;
 public class E1 {
 
     public static void main(String[] args) {
-        //<editor-fold defaultstate="collapsed" desc="comment">
+        
         Scanner sc=new Scanner(System.in);
         double a,b,c; // coeficientes ax^2+bx+c=0
         double x1,x2,d; // soluciones y determinante
@@ -35,6 +35,5 @@ public class E1 {
             System.out.println("Solución: " + x1);
             System.out.println("Solución: " + x2);
         }
-//</editor-fold>
     }
 }

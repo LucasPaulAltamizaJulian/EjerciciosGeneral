@@ -10,7 +10,6 @@ import java.util.Scanner;
  */
 public class E4 {
     public static void main(String[] args) {
-        //<editor-fold defaultstate="collapsed" desc="comment">
         Scanner sc=new Scanner(System.in);
         int n1,n2;
         System.out.print("Introduce un número: ");
@@ -21,6 +20,5 @@ public class E4 {
             System.out.println("Son iguales");
         else
             System.out.println("No son iguales");
-//</editor-fold>
     }
 }
